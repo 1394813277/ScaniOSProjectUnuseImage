@@ -23,3 +23,6 @@ python3 /python script path /iOS project path
 ```
 python3 /python script path /iOS project path
 ```
+
+
+![](https://github.com/1394813277/ScaniOSProjectUnuseImage/blob/master/sn.png)
